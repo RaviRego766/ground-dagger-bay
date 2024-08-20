@@ -1,31 +1,20 @@
 type: UnitAssembler
-name: Ground Assembly Bay
+name: Ground Dagger Bay
 description: Creates ground units using payloads. Requires power.
 size: 5
 category: units
-droneType: 18r-12-mounting-drone
 research: {
-  parent: 11k-01-core-essence
-  objectives: [
-    {
-      type: OnSector
-      preset: 19s-05-immist
-    }
-  ]
+  parent: dagger
 }
 requirements: [
-  01a-01-item-ferrinite/50
-  01a-02-item-demetite/90
-  01a-07-item-lithium/100
+  copper/500
 ]
 plans: [
   {
     type: AssemblerUnitPlan
-    unit: 14n-01-shiv
+    unit: dagger
     requirements: [
-      asthosus-03c-02-spray/1
-      asthosus-08h-05-lithium-wall-small/1
-      asthosus-mechanical-joint/2
+      copper-wall/5
     ]
     time: 720
   }
