@@ -49,11 +49,11 @@ plans: [
   }
   {
     type: AssemblerUnitPlan
-    unit: 14n-05-crest
+    unit: reign
     requirements: [
-      asthosus-03c-20-draysten-mortar/1
-      asthosus-08h-12-crosium-wall-large/8
-      asthosus-mechanical-joint/4
+      copper-wall/20
+      dagger/18
+      mace/10
     ]
     time: 24900
   }
