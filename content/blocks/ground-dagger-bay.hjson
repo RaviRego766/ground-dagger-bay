@@ -20,11 +20,10 @@ plans: [
   }
   {
     type: AssemblerUnitPlan
-    unit: 14n-02-bayonet
+    unit: mace
     requirements: [
-      asthosus-03c-04-skip/1
-      asthosus-08h-06-lithium-wall-large/2
-      asthosus-mechanical-joint/2
+      dagger/5
+      copper-wall/2
     ]
     time: 1500
   }
