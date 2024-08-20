@@ -29,11 +29,11 @@ plans: [
   }
   {
     type: AssemblerUnitPlan
-    unit: 14n-03-cleaver
+    unit: fortress
     requirements: [
-      asthosus-03c-07-subtile/1
-      asthosus-08h-10-barite-wall-large/2
-      asthosus-mechanical-joint/2
+      copper-wall/1
+      dagger/10
+      mace/2
     ]
     time: 3300
   }
