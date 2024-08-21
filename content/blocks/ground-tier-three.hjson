@@ -1,5 +1,5 @@
 type: UnitAssemblerModule
-name: Ground Assembler Module
+name: Ground Assembler Module Tier 3
 description: Increases an assemblers' tier by 1 when placed next to its bounding box. May be used as an additional payload input.
 size: 3
 category: units
