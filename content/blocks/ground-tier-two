@@ -12,4 +12,3 @@ consumes: {
   power: 1
 }
 tier: 2
-researchCostMultiplier: 0.3
