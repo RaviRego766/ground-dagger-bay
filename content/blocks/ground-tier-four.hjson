@@ -1,0 +1,15 @@
+type: UnitAssemblerModule
+name: Ground Assembler Module Tier 4
+description: Increases an assemblers' tier by 1 when placed next to its bounding box. May be used as an additional payload input.
+size: 3
+category: units
+research: ground-tier-three
+requirements: [
+  lead/600
+  copper/500
+]
+consumes: {
+  power: 1
+}
+tier: 4
+researchCostMultiplier: 0.3
