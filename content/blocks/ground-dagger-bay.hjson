@@ -58,6 +58,9 @@ plans: [
     time: 24900
   }
 ]
+consumes: {
+  power: 2
+}
 squareSprite: false
 areaSize: 20
 researchCostMultiplier: 0.5
